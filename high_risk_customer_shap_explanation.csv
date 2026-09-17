@@ -1,0 +1,39 @@
+Feature,Feature_Value,SHAP_Value,Absolute_SHAP
+numeric__Monthly_Charges,1.3168595625682953,2.811653,2.811653
+categorical__Subscription_Plan_Premium,1.0,0.36474824,0.36474824
+numeric__Complaints,2.7476056578706203,0.30871817,0.30871817
+numeric__Days_Since_Last_Login,1.6776062605409368,0.30514023,0.30514023
+numeric__Tenure,-1.2766145385118433,0.16921619,0.16921619
+numeric__Total_Charges,-0.8869013325363886,0.14358984,0.14358984
+numeric__Support_Tickets,-0.8101931068783094,-0.08362335,0.08362335
+numeric__Age,-1.4715870955401915,0.0802626,0.0802626
+numeric__Login_Frequency,-0.19922274409160354,0.07376134,0.07376134
+categorical__Contract_Type_Month-to-Month,1.0,0.053374562,0.053374562
+numeric__Avg_Session_Duration,1.2864483292601379,0.030631013,0.030631013
+categorical__Internet_Service_DSL,0.0,-0.019506123,0.019506123
+categorical__Gender_Female,0.0,0.01761209,0.01761209
+categorical__Internet_Service_Mobile Data,1.0,-0.016462017,0.016462017
+categorical__Gender_Male,1.0,0.014029589,0.014029589
+categorical__Payment_Method_UPI,1.0,-0.013247509,0.013247509
+categorical__Location_Pune,1.0,0.01010873,0.01010873
+categorical__Location_Jaipur,0.0,0.0099277925,0.0099277925
+categorical__Subscription_Plan_Basic,0.0,0.009288396,0.009288396
+categorical__Payment_Method_Auto Debit,0.0,-0.009079126,0.009079126
+categorical__Contract_Type_Two Year,0.0,0.007983571,0.007983571
+categorical__Location_Bengaluru,0.0,0.007391564,0.007391564
+categorical__Payment_Method_Debit Card,0.0,0.006247261,0.006247261
+categorical__Location_Chennai,0.0,0.006203093,0.006203093
+categorical__Location_Hyderabad,0.0,0.005730826,0.005730826
+categorical__Subscription_Plan_Standard,0.0,0.0052926885,0.0052926885
+categorical__Contract_Type_One Year,0.0,0.0051424503,0.0051424503
+categorical__Location_Ahmedabad,0.0,0.005026353,0.005026353
+categorical__Payment_Method_Cash,0.0,0.004592743,0.004592743
+categorical__Location_Delhi,0.0,0.0044718063,0.0044718063
+categorical__Location_Mumbai,0.0,-0.0035346833,0.0035346833
+categorical__Internet_Service_Fiber,0.0,0.0032661266,0.0032661266
+categorical__Payment_Method_Credit Card,0.0,-0.002424969,0.002424969
+categorical__Location_Kochi,0.0,-0.0022061556,0.0022061556
+categorical__Payment_Method_Net Banking,0.0,0.0021873815,0.0021873815
+categorical__Location_Kolkata,0.0,-0.0007821306,0.0007821306
+categorical__Internet_Service_Cable,0.0,-0.00048515465,0.00048515465
+categorical__Gender_Other,0.0,0.00014332711,0.00014332711
