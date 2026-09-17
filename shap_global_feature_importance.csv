@@ -1,0 +1,39 @@
+Feature,Mean_Absolute_SHAP
+numeric__Monthly_Charges,2.3276794
+numeric__Login_Frequency,0.23543191
+numeric__Tenure,0.18525952
+numeric__Days_Since_Last_Login,0.18298139
+numeric__Complaints,0.12980567
+categorical__Subscription_Plan_Premium,0.1038969
+numeric__Support_Tickets,0.10106117
+categorical__Contract_Type_Month-to-Month,0.06987265
+numeric__Total_Charges,0.059551403
+numeric__Avg_Session_Duration,0.050241586
+numeric__Age,0.036849476
+categorical__Subscription_Plan_Basic,0.026244095
+categorical__Internet_Service_DSL,0.02528444
+categorical__Gender_Male,0.017822584
+categorical__Contract_Type_Two Year,0.016398042
+categorical__Gender_Female,0.012494971
+categorical__Payment_Method_Debit Card,0.010845092
+categorical__Payment_Method_UPI,0.010446705
+categorical__Location_Chennai,0.008898822
+categorical__Contract_Type_One Year,0.008627356
+categorical__Location_Jaipur,0.007425104
+categorical__Location_Hyderabad,0.00720579
+categorical__Payment_Method_Auto Debit,0.0068294504
+categorical__Payment_Method_Net Banking,0.0064671044
+categorical__Internet_Service_Fiber,0.0062411516
+categorical__Internet_Service_Mobile Data,0.006005336
+categorical__Subscription_Plan_Standard,0.0051007764
+categorical__Location_Bengaluru,0.0050947214
+categorical__Payment_Method_Credit Card,0.00492416
+categorical__Location_Delhi,0.004899597
+categorical__Location_Kochi,0.004808858
+categorical__Location_Ahmedabad,0.0043036104
+categorical__Location_Kolkata,0.0039349226
+categorical__Internet_Service_Cable,0.0037694508
+categorical__Location_Pune,0.0029326198
+categorical__Gender_Other,0.0028568865
+categorical__Location_Mumbai,0.0028493942
+categorical__Payment_Method_Cash,0.002715561
