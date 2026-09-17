@@ -1,0 +1,8 @@
+Customer_Segment,Retention_Priority,Customers,Average_Churn_Probability,Total_Customer_Value,Average_Customer_Value
+Critical - High Value,Immediate,2139,0.94417125,110902382.19,51847.77100981767
+High Risk - Low Value,High,1542,0.8780025,16803541.81,10897.238527885862
+Priority - High Value,High,453,0.7062885,19003988.21,41951.408852097135
+Stable - High Value,Low,2131,0.08057642,73430439.36,34458.20711403097
+Stable - Low Value,Normal,3340,0.05407441,39440004.79,11808.38466766467
+Watch - High Value,Medium,655,0.44231004,26516187.5,40482.729007633585
+Watch - Low Value,Medium,496,0.45282862,5950432.22,11996.839153225807
