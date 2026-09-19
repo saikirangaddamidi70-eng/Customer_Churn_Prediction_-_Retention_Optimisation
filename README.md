@@ -376,11 +376,11 @@ This section will be updated after completing the project.
 - Overall Churn Rate: "38.47%"
 - High-Risk Customers: "3796"
 - Critical-Risk Customers: "3796"
-- High-Value Customers at Risk: ""
-- Final Model: "Model Name"
-- F1-Score: "0.83"
-- ROC-AUC: "0.93"
-- PR-AUC: "0.89"
+- Total Customers: "48.00K"
+- Final Model: XGBoost 
+- F1-Score: 0.838675
+- ROC-AUC: 0.940675
+- PR-AUC: 0.900143
 
 ---
 
