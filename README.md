@@ -196,7 +196,8 @@ Additional Evaluation
 | Random Forest | 0.875748 | 0.847085 | 0.825959 | 0.836388 | 0.936927 | 0.894964 |
 | Gradient Boosting | 0.877810 | 0.850028 | 0.828372 | 0.839060 | 0.939237 | 0.897725 |
 | XGBoost | 0.876985 | 0.845881 | 0.831590 | 0.838675 | 0.940675 | 0.900143 |
-«Results will be updated after model training.»
+
+Results will be updated after model training.
 
 ---
 
