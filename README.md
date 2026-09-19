@@ -291,6 +291,9 @@ The project includes four dashboard sections.
 - Revenue at Risk
 - Customer Segments
 
+<img width="1397" height="782" alt="Screenshot 2026-09-18 192437" src="https://github.com/user-attachments/assets/3ab0383a-a838-44fa-8406-03595646fc03" />
+
+
 ### 2. Churn Analysis
 
 - Churn by Tenure
@@ -390,5 +393,4 @@ B.Tech – Artificial Intelligence & Data Science
 
 Aspiring Data Scientist
 
----
-e estimates and should be validated before being used for real-world business decisions.
+
