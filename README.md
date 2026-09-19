@@ -302,6 +302,9 @@ The project includes four dashboard sections.
 - Churn by Service Type
 - Churn by Customer Segment
 
+  <img width="1361" height="752" alt="Screenshot 2026-09-18 192511" src="https://github.com/user-attachments/assets/30a34968-72ed-4c6f-9a84-f56d24f88e09" />
+
+
 ### 3. Customer Risk
 
 - Customer ID
@@ -311,12 +314,18 @@ The project includes four dashboard sections.
 - Risk Factors
 - Recommended Action
 
+<img width="1366" height="765" alt="Screenshot 2026-09-18 192535" src="https://github.com/user-attachments/assets/15189029-fbc0-4dcd-9a58-4a929c8ae622" />
+
+
 ### 4. Retention
 
 - High-value/high-risk customers
 - Risk distribution
 - Retention priorities
 - Revenue at risk
+
+<img width="1376" height="745" alt="Screenshot 2026-09-18 192556" src="https://github.com/user-attachments/assets/b9584104-b434-4753-839c-f582c4307db3" />
+
 
 ---
 
@@ -328,6 +337,8 @@ The Streamlit application allows users to enter customer information and receive
 - Risk Level
 - Major Risk Factors
 - Recommended Action
+
+
 
 Example
 
