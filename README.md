@@ -188,14 +188,14 @@ Additional Evaluation
 - ROC Curve
 - Precision-Recall Curve
 
-## Model Comparison
+## 📊 Model Comparison
 
-|Model| Accuracy| Precision| Recall| F1| ROC-AUC| PR-AUC |
-|Logistic Regression| 0.875748| 0.849198| 0.823009| 0.835898| 0.939039| 0.896012 |
-|Random Forest| 0.875748| 0.847085| 0.825959| 0.836388| 0.936927| 0.894964 |
-|Gradient Boosting| 0.877810| 0.850028| 0.828372| 0.839060| 0.939237| 0.897725 |
-|XGBoost| 0.876985| 0.845881| 0.831590| 0.838675| 0.940675| 0.900143 |
-
+| Model | Accuracy | Precision | Recall | F1 | ROC-AUC | PR-AUC |
+|---|---:|---:|---:|---:|---:|---:|
+| Logistic Regression | 0.875748 | 0.849198 | 0.823009 | 0.835898 | 0.939039 | 0.896012 |
+| Random Forest | 0.875748 | 0.847085 | 0.825959 | 0.836388 | 0.936927 | 0.894964 |
+| Gradient Boosting | 0.877810 | 0.850028 | 0.828372 | 0.839060 | 0.939237 | 0.897725 |
+| XGBoost | 0.876985 | 0.845881 | 0.831590 | 0.838675 | 0.940675 | 0.900143 |
 «Results will be updated after model training.»
 
 ---
