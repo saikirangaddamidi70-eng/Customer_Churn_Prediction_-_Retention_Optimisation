@@ -191,10 +191,10 @@ Additional Evaluation
 Model Comparison
 
 Model| Accuracy| Precision| Recall| F1| ROC-AUC| PR-AUC
-Logistic Regression| —| —| —| —| —| —
-Random Forest| —| —| —| —| —| —
-Gradient Boosting| —| —| —| —| —| —
-XGBoost| —| —| —| —| —| —
+Logistic Regression| 0.875748| 0.849198| 0.823009| 0.835898| 0.939039| 0.896012
+Random Forest| 0.875748| 0.847085| 0.825959| 0.836388| 0.936927| 0.894964
+Gradient Boosting| 0.877810| 0.850028| 0.828372| 0.839060| 0.939237| 0.897725
+XGBoost| 0.876985| 0.845881| 0.831590| 0.838675| 0.940675| 0.900143
 
 «Results will be updated after model training.»
 
@@ -372,14 +372,14 @@ Environment| Jupyter Notebook
 
 This section will be updated after completing the project.
 
-- Overall Churn Rate: "XX%"
-- High-Risk Customers: "XX"
-- Critical-Risk Customers: "XX"
-- High-Value Customers at Risk: "XX"
+- Overall Churn Rate: "38.47%"
+- High-Risk Customers: "3796"
+- Critical-Risk Customers: "3796"
+- High-Value Customers at Risk: ""
 - Final Model: "Model Name"
-- F1-Score: "XX"
-- ROC-AUC: "XX"
-- PR-AUC: "XX"
+- F1-Score: "0.83"
+- ROC-AUC: "0.93"
+- PR-AUC: "0.89"
 
 ---
 
