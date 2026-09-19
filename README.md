@@ -6,6 +6,7 @@ An end-to-end Data Science project that predicts customer churn, estimates churn
 
 The project goes beyond basic churn classification by combining SQL, Machine Learning, SHAP explainability, customer segmentation, Power BI, and Streamlit.
 
+
 ---
 
 ## 🎯 Objectives
