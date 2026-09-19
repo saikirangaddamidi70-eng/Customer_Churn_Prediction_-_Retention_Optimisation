@@ -1,6 +1,6 @@
-Customer Churn Prediction & Retention Optimization System
+# Customer Churn Prediction & Retention Optimization System
 
-📌 Project Overview
+## 📌 Project Overview
 
 An end-to-end Data Science project that predicts customer churn, estimates churn probability, explains the reasons behind predictions, identifies high-value customers at risk, and prioritizes customers for retention.
 
@@ -8,7 +8,7 @@ The project goes beyond basic churn classification by combining SQL, Machine Lea
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Predict customers likely to churn
 - Calculate individual churn probability
@@ -21,7 +21,7 @@ The project goes beyond basic churn classification by combining SQL, Machine Lea
 
 ---
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
 Raw Customer Data
        ↓
@@ -57,7 +57,7 @@ Power BI + Streamlit
 
 ---
 
-📊 Dataset
+## 📊 Dataset
 
 The dataset contains customer-level information such as:
 
@@ -79,14 +79,14 @@ The dataset contains customer-level information such as:
 - Last Activity
 - Churn
 
-Target
+### Target
 
 1 → Churned
 0 → Stayed
 
 ---
 
-🧹 Data Preparation
+## 🧹 Data Preparation
 
 The project includes:
 
@@ -100,7 +100,7 @@ The project includes:
 
 ---
 
-🔍 Exploratory Data Analysis
+## 🔍 Exploratory Data Analysis
 
 Churn is analyzed across:
 
@@ -119,7 +119,7 @@ The analysis focuses on identifying patterns associated with customer churn.
 
 ---
 
-⚙️ Feature Engineering
+## ⚙️ Feature Engineering
 
 Additional features are created to capture customer behavior and value.
 
@@ -138,7 +138,7 @@ Low_Engagement
 
 ---
 
-🤖 Machine Learning
+## 🤖 Machine Learning
 
 The following models are considered:
 
@@ -160,7 +160,7 @@ Appropriate techniques include:
 
 ---
 
-🔧 Hyperparameter Tuning
+## 🔧 Hyperparameter Tuning
 
 The strongest models are tuned using:
 
@@ -171,7 +171,7 @@ The final model is selected based on relevant business and model-performance met
 
 ---
 
-📈 Model Evaluation
+## 📈 Model Evaluation
 
 Models are evaluated using:
 
@@ -200,7 +200,7 @@ XGBoost| —| —| —| —| —| —
 
 ---
 
-🎯 Churn Risk Scoring
+## 🎯 Churn Risk Scoring
 
 Instead of only predicting churn/not churn, the system generates a churn probability.
 
@@ -222,7 +222,7 @@ Probability| Risk
 
 ---
 
-🔎 SHAP Explainability
+## 🔎 SHAP Explainability
 
 SHAP is used to understand why the model predicts churn.
 
@@ -247,7 +247,7 @@ Important Factors:
 
 ---
 
-👥 Customer Segmentation
+## 👥 Customer Segmentation
 
 Customers are segmented using churn risk + customer value.
 
@@ -260,7 +260,7 @@ Low Priority| Low| Low| Normal service
 
 ---
 
-🎯 Retention Optimization
+## 🎯 Retention Optimization
 
 The system prioritizes customers based on:
 
@@ -279,11 +279,11 @@ Potential Business Recommendations
 
 ---
 
-📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The project includes four dashboard sections.
 
-1. Executive Overview
+### 1. Executive Overview
 
 - Total Customers
 - Churn Rate
@@ -291,7 +291,7 @@ The project includes four dashboard sections.
 - Revenue at Risk
 - Customer Segments
 
-2. Churn Analysis
+### 2. Churn Analysis
 
 - Churn by Tenure
 - Churn by Contract
@@ -299,7 +299,7 @@ The project includes four dashboard sections.
 - Churn by Service Type
 - Churn by Customer Segment
 
-3. Customer Risk
+### 3. Customer Risk
 
 - Customer ID
 - Churn Probability
@@ -308,7 +308,7 @@ The project includes four dashboard sections.
 - Risk Factors
 - Recommended Action
 
-4. Retention
+### 4. Retention
 
 - High-value/high-risk customers
 - Risk distribution
@@ -317,7 +317,7 @@ The project includes four dashboard sections.
 
 ---
 
-🌐 Streamlit Application
+## 🌐 Streamlit Application
 
 The Streamlit application allows users to enter customer information and receive:
 
@@ -339,7 +339,7 @@ Major Risk Factors:
 
 ---
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 Category| Technologies
 Programming| Python
@@ -354,42 +354,7 @@ Environment| Jupyter Notebook
 
 ---
 
-📁 Project Structure
-
-customer-churn-optimization/
-│
-├── data/
-│   └── churn_data.csv
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   ├── 04_model_training.ipynb
-│   └── 05_model_evaluation.ipynb
-│
-├── sql/
-│   └── churn_analysis.sql
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── features.py
-│   └── prediction.py
-│
-├── models/
-│   └── churn_model.pkl
-│
-├── powerbi/
-│   └── churn_dashboard.pbix
-│
-├── app.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-
----
-
-📌 Key Results
+## 📌 Key Results
 
 This section will be updated after completing the project.
 
@@ -404,7 +369,7 @@ This section will be updated after completing the project.
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Probability calibration
 - Customer Lifetime Value prediction
@@ -417,18 +382,13 @@ This section will be updated after completing the project.
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Gaddamidi Sai Kiran
+## Gaddamidi Sai Kiran
 
 B.Tech – Artificial Intelligence & Data Science
 
 Aspiring Data Scientist
 
 ---
-
-📜 Disclaimer
-
-This project is developed for educational and portfolio purposes.
-
-Model predictions are estimates and should be validated before being used for real-world business decisions.
+e estimates and should be validated before being used for real-world business decisions.
